@@ -7,7 +7,7 @@
 - **ritmo**: pulsação estável, contagem, subdivisão e figuras pontuadas;
 - **atenção/fadiga**: blocos curtos e muito variados.
 
-> Todos os compassos indicados foram contados nas partituras enviadas (Seixas, Loeillet, Langlais, Rheinberger e Pachelbel). **Falta a partitura do Prelúdio em sol menor atribuído a Bach**, por isso essa obra aparece dividida em secções A/B/C, a numerar na 1.ª aula. **Do Minuete de Loeillet só recebi a pág. 16** (c. 1–22); a continuação (pág. 17) aparece como «c. 23–fim».
+> Todos os compassos indicados foram contados nas partituras enviadas (Seixas, Loeillet, Langlais, Rheinberger, Pachelbel e Prelúdio BWV 558). **Do Minuete de Loeillet só recebi a pág. 16** (c. 1–22); a continuação (pág. 17) aparece como «c. 23–fim».
 
 ---
 
@@ -26,7 +26,7 @@
 | **qua 10 mar** (janela 8–12 mar) | **2.º sem. – Teste I** | Sib M + sol m · **Rheinberger, Trio op. 49 n.º 1** |
 | mar/abr · Igreja da Maia (RG) | Itinerários organísticos (Básico/Sec.) | Participar: Atividade do 2.º semestre |
 | 22 mar – 2 abr | Interrupção da Páscoa | Plano de férias |
-| **qua 28 abr** (janela 26–30 abr) | **2.º sem. – Teste II** | Mib M + dó m · **Prelúdio em sol m (atr. Bach)** · **Pachelbel, Fuga do Magnificat primi toni (P. 259, n.º 3)** |
+| **qua 28 abr** (janela 26–30 abr) | **2.º sem. – Teste II** | Mib M + dó m · **Prelúdio em sol m BWV 558 (atr. Bach)** · **Pachelbel, Fuga do Magnificat primi toni (P. 259, n.º 3)** |
 | 2.ª quinzena de maio · Sala MMS | Encontro musical | Rheinberger ou Pachelbel |
 
 > ⚠️ **Alerta de calendário.** Entre o Teste de 10 mar e o de 28 abr há apenas **4 semanas de aulas**, por causa da Páscoa. Por isso, a Fuga de Pachelbel **começa em fevereiro** e o Prelúdio no início de março, **em paralelo** com o Rheinberger. Sem isto, o 2.º momento do 2.º semestre não é realista para esta aluna.
@@ -107,12 +107,24 @@
 - **Estudo inteligente.** Pintar **a amarelo todas as entradas do sujeito** (c. 1, 3, 8, 11, 15, 18… confirmar na aula) e **a azul o contrassujeito** em semicolcheias. Com o sujeito identificado, cerca de 40 % da leitura fica feita.
 - **Ritmo.** No 12/8 contam-se **4 tempos de semínima pontuada**. As semicolcheias são **6 por tempo**.
 
-### 1.6 Prelúdio em sol menor atribuído a J. S. Bach (3/2, com pedal)
+### 1.6 Prelúdio em sol menor BWV 558 (atribuído a J. S. Bach; *Acht kleine Präludien und Fugen*) – 36 c., 3/2, *organo pleno* (Hw) + pedal
 
-A obra deve dividir-se em 3 secções (**P-A / P-B / P-C**), numeradas na 1.ª aula de leitura.
+Só se toca o **Präludium**, até ao c. 36. A Fuga que se segue na partitura não faz parte do programa.
 
-- **Compasso 3/2.** A unidade é a **mínima**: 3 mínimas por compasso. Contar «**1**-e 2-e 3-e», com a semínima como subdivisão.
-- **Pedal.** Isolar o pedal logo desde o início (secção 5.6).
+| Secção | Compassos | Conteúdo | Dificuldade |
+|---|---|---|---|
+| **P-A** | 1–8 | **Diálogo entre as mãos**: c. 1 e 3, MD em arpejo de semínimas (pausa-Sol-Sib-Ré-Sib-Sol) enquanto a ME segura o acorde; c. 2 e 4, é a ME que faz o arpejo e a MD segura o acorde. c. 5–7: MD a 2 vozes (semínimas sobre notas longas); c. 8: ME em colcheias | **Acordes de 3 sons na ME** (c. 1, 3: Sol-Sib-Ré…) → ótima leitura de clave de fá. Ligaduras c. 4–5 (MD) e c. 5–6 |
+| **P-B** | 9–18 | MD em **colcheias contínuas** (figuração/«bariolage»); ME em acordes longos (c. 9–13), depois mínimas + pausas (c. 14–16). **Trilo c. 16**; c. 18: ME em colcheias | Si♮ em c. 9; Láb/Lá♮ em c. 10; pedal ligado de c. 13 para c. 14 |
+| **P-C** | 19–22 | Colcheias da MD com nota repetida (Lá) + acidentes (**Mi♮, Dó#, Si♮**, c. 19–20); **trilo c. 22** sobre Mi♮ → cadência em Ré | ⭐ Passagem mais difícil: acidentes + 2 vozes na MD (c. 19–21) |
+| **P-D** | 23–28 | **Reexposição**: c. 24–28 = c. 1–5 (mesmo diálogo de arpejos) | Quase sem leitura nova: reconhecer! |
+| **P-E** | 29–36 | c. 29–32: **pedal de dominante (Ré)**, MD em colcheias partidas (Fá#-Ré-Lá-Ré…), ME e pedal em mínimas + pausas; c. 33–36: cadência final com **trilos em c. 33 e c. 35**, MD a 2 vozes, pedal com Mi♮ (c. 35) | Contar as pausas de mínima (c. 29–33) |
+
+- **Pedal.** Muito acessível para o 1.º ano de pedal:
+  - c. 1–13, 17–18 e 23–28: **uma nota por compasso** (semibreve pontuada = 3 mínimas): Sol–Dó–Fá–Sib–Mib–Ré–Sol–Ré–Si♮–Dó–Ré–Sib–Mib;
+  - c. 14–16, 19–22 e 29–36: mínimas com pausas, e saltos de oitava em c. 16 e c. 33 (Ré grave).
+  - É o sítio ideal para aprender **pontas alternadas** e a **procurar as teclas sem olhar**.
+- **Estudo inteligente.** P-D repete P-A. Na prática, leem-se ~30 compassos novos; na MD, quase todos são padrões de colcheias que se repetem.
+- **Ritmo.** O 3/2 conta-se em **mínimas** (3 por compasso) com a semínima como subdivisão: «**1**-e 2-e 3-e». As colcheias são **4 por mínima**. A semibreve pontuada (pedal) dura o compasso inteiro: contar «1-2-3» e soltar exatamente no novo compasso.
 
 ---
 
@@ -278,14 +290,14 @@ Andamentos em ♩ = colcheias para as escalas.
 | 16 | 3 / 4 fev | Rheinberger R1–R2; **pedal no órgão** | Sib M MJ ♩=60 · sol m MS ♩=56 | Rheinb. **R1 c. 1–8** MD+Ped · ME+Ped ♪=100 (em 6) · **R2 c. 9–16** MS | Pedal de R1–R2 tocado **com a ME** ao piano (clave de fá!) |
 | 17 | (qua 10 = Carnaval) / 11 fev | Só 20' | Sib M ♩=66 | R2 MS · **Pachelbel**: cantar e bater o **sujeito** (c. 1–2) | 12/8: 4 tempos de ♩. |
 | 18 | 17 / 18 fev | Rheinberger a 3 em R1 | Sib M ♩=72 · sol m MJ ♩=60 · arpejos MS · cad. Sib M | R1 **a 3 vozes** ♪=100 · **R3 c. 17–24** MS · Pachelbel **c. 1–7** MS | Acidentes R3 (Mi♮, Fá#, Si♮, Láb) |
-| 19 | 24 / 25 fev | **🎯 Controlo 5** | Sib M ♩=76 · sol m ♩=69 · arpejos MJ ♩=56 · cad. sol m | R1–R2 a 3 ♪=112 · **R4 c. 25–33** MS · Pachelbel c. 1–7 MJ ♩.=40 · **Prelúdio**: ouvir e ler **P-A** MS | Pedal c. 21–24: pausas e ligaduras |
+| 19 | 24 / 25 fev | **🎯 Controlo 5** | Sib M ♩=76 · sol m ♩=69 · arpejos MJ ♩=56 · cad. sol m | R1–R2 a 3 ♪=112 · **R4 c. 25–33** MS · Pachelbel c. 1–7 MJ ♩.=40 · **Prelúdio BWV 558**: ouvir; ler **P-A c. 1–8** MS; pedal c. 1–8 com a ME ao piano | Pedal c. 21–24: pausas e ligaduras |
 | 20 | 3 / 4 mar | Simulação Rheinberger | Sib M ♩=80 · sol m ♩=76 · cad. 3 pos. | Rheinberger inteiro a 3 ♪=120 (≈ ♩.=40) · **2 teclados** (Bourdon 8' / Flauta 8' + Subbaixo 16' suave) | Contar em 2 com subdivisão interior |
 | 21 | **qua 10 mar** / 11 mar | **TESTE I (2.º sem.)** | 5.ª: Mib M MS ♩=60 | Rheinberger ♩.=44–50 · 5.ª: Pachelbel **c. 8–14** MS | — |
-| 22 | 17 / 18 mar | Pachelbel + Prelúdio P-A | Mib M MJ ♩=63 · dó m MS ♩=60 | Pachelbel c. 1–14 MJ ♩.=40 · Prelúdio P-A MJ lento + **pedal sozinho** | 3/2: contar em mínimas |
-| — | 22 mar – 2 abr | **Páscoa** | 20'/dia | Pachelbel **c. 15–21** MS · Prelúdio **P-B** MS | App + 1.ª vista |
-| 23 | 7 / 8 abr | **🎯 Controlo 6** | Mib M ♩=72 · dó m MJ ♩=66 · arpejos ♩=56 · cad. Mib M | Pachelbel c. 15–27 MS→MJ · Prelúdio P-A+P-B MJ · pedal P-A | Semicolcheias 12/8: «1-2-3-4-5-6» por tempo |
-| 24 | 14 / 15 abr | Obras inteiras | Mib M ♩=76 · dó m ♩=72 · cad. dó m 3 pos. | Pachelbel inteiro ♩.=44 · Prelúdio **P-C** + pedal | Itinerários (Maia) |
-| 25 | 21 / 22 abr | **🎯 Controlo 7 – simulação** | Mib M ♩=80 · dó m ♩=76 · arpejos ♩=60 | Pachelbel ♩.=48–52 · Prelúdio inteiro com pedal (≈80 %) | Gravação |
+| 22 | 17 / 18 mar | Pachelbel + Prelúdio P-A | Mib M MJ ♩=63 · dó m MS ♩=60 | Pachelbel c. 1–14 MJ ♩.=40 · Prelúdio **c. 1–8 MJ** ♩=72 (em semínimas) + **pedal c. 1–13 sozinho** · descobrir que c. 24–28 = c. 1–5 | 3/2: contar em mínimas |
+| — | 22 mar – 2 abr | **Páscoa** | 20'/dia | Pachelbel **c. 15–21** MS · Prelúdio **P-B c. 9–18** MS (colcheias MD: dedilhação escrita) | App + 1.ª vista |
+| 23 | 7 / 8 abr | **🎯 Controlo 6** | Mib M ♩=72 · dó m MJ ♩=66 · arpejos ♩=56 · cad. Mib M | Pachelbel c. 15–27 MS→MJ · Prelúdio **c. 1–18 MJ** · MS + pedal em c. 1–8 e 23–28 | Semicolcheias 12/8: «1-2-3-4-5-6» por tempo |
+| 24 | 14 / 15 abr | Obras inteiras | Mib M ♩=76 · dó m ♩=72 · cad. dó m 3 pos. | Pachelbel inteiro ♩.=44 · Prelúdio **P-C c. 19–22** + **P-E c. 29–36** · trilos c. 16, 22, 33, 35 medidos | Itinerários (Maia) |
+| 25 | 21 / 22 abr | **🎯 Controlo 7 – simulação** | Mib M ♩=80 · dó m ♩=76 · arpejos ♩=60 | Pachelbel ♩.=48–52 · Prelúdio inteiro com pedal 𝅗𝅥=48 (≈80 %) | Gravação |
 | 26 | **qua 28 abr** / 29 abr | **TESTE II (2.º sem.)** | — | Prelúdio + Pachelbel | — |
 | 27–31 | 5 mai → 10 jun | Encontro musical (2.ª quinzena de maio) · consolidar · preparar o 4.º grau | Revisão das 8 tonalidades ♩=80–88 · uma escala nova (Lá M / fá# m) | Polir a obra do Encontro; ler uma obra do 4.º grau; 1.ª vista semanal | Autonomia: a aluna planeia a sua semana |
 
@@ -412,13 +424,16 @@ Blocos **curtos (≤ 8')** e **alternados**: sentada / de pé / órgão / mesa.
 | **Andamento** | 12/8 em 4 tempos: ♩.=48–56 (final); leitura ♪=100 |
 | **Registação** | Principal 8' (+ 4') – plenum pequeno; *manualiter* (sem pedal) |
 
-### 7.6 Prelúdio em sol menor (atr. J. S. Bach)
+### 7.6 Prelúdio em sol menor BWV 558 (atr. J. S. Bach)
 
 | Aspeto | Orientação |
 |---|---|
-| **3/2** | Pulsação em **mínimas** (3 por compasso): 𝅗𝅥=56–63 final; leitura ♩=72–80. Contar «**1**-e 2-e 3-e» |
-| **Pedal** | Isolar o pedal desde o 1.º dia; marcar pés (∧ ponta, ∪ calcanhar só se necessário). Pedal sozinho → pedal + ME → pedal + MD → tudo |
-| **Estilo** | Barroco alemão: *organo pleno* moderado, articulação clara nas colcheias, legato nas vozes longas; respirar nas cadências |
+| **Tempo 3/2** | Pulsação em **mínimas**: 𝅗𝅥=54–60 no teste (segurança 𝅗𝅥=48). Leitura com o metrónomo na semínima (♩=72), depois ♩=88, 96, e só então passar a contar em mínimas. Nas colcheias (c. 9–22, 29–32) contar «1-e-e-a» por mínima |
+| **Pedaleira** | c. 1–13: uma nota por compasso → **pontas alternadas** (marcar ∧ por baixo = pé esquerdo, por cima = direito). Preparar o pé **durante a nota anterior**. c. 16 e c. 33: salto para o Ré grave; preparar com o pé esquerdo. Sem pedaleira em casa: pedal tocado pela ME ao piano + «pedaleira de papel» no chão para as distâncias; 1×/semana na sala de órgão do CRPD |
+| **Estilo e articulação** | Barroco alemão, *organo pleno* (Hw: Principal 8' + Oitava 4' (+ 2'), Pedal 16' + 8'). **Articulação «respirada»**: semínimas e colcheias ligeiramente separadas (*non legato*); notas repetidas sempre separadas; acordes longos cheios até ao fim. Respirar antes das cadências (c. 8/9, 22/23, 28/29) |
+| **Diálogo das mãos (c. 1–4, 24–27)** | Quem faz o arpejo «fala», o acorde «escuta». Soltar o acorde exatamente no início do compasso seguinte |
+| **Ornamentos** | Trilos c. 16, 22, 33 e 35: começar na **nota superior**, no tempo; primeiro medidos (4 semicolcheias), terminando na nota principal |
+| **Compassos críticos** | c. 9–10, 19–22 e 33–36 → 5 min diários só nestes compassos, do fim para o princípio |
 
 ---
 
@@ -463,8 +478,8 @@ Blocos **curtos (≤ 8')** e **alternados**: sentada / de pé / órgão / mesa.
 | **C3** | 9 dez | Fá M/ré m MJ ♩≥76; Loeillet inteiro MJ ♩≥72; Langlais c. 1–17 MS; ≥25 notas/min |
 | **C4** | 13 jan | Loeillet ♩≥92; Langlais ♩≥76; técnica completa |
 | **C5** | 24 fev | Sib M/sol m ♩≥76; Rheinberger R1–R2 a 3 vozes; Pachelbel c. 1–7 MS |
-| **C6** | 7 abr | Mib M/dó m ♩≥72; Pachelbel c. 1–14 MJ; Prelúdio P-A+P-B MJ |
-| **C7** | 21 abr | Pachelbel inteiro ♩.≥48; Prelúdio inteiro com pedal (pode ser mais lento) |
+| **C6** | 7 abr | Mib M/dó m ♩≥72; Pachelbel c. 1–14 MJ; Prelúdio c. 1–18 MJ + pedal de c. 1–8 |
+| **C7** | 21 abr | Pachelbel inteiro ♩.≥48; Prelúdio inteiro com pedal 𝅗𝅥≥46 |
 
 **Metas de todas as semanas (verificar na grelha):**
 - ✔ tabela de casa com ≥4 dias;
@@ -478,7 +493,7 @@ Blocos **curtos (≤ 8')** e **alternados**: sentada / de pé / órgão / mesa.
 |---|---|---|
 | 🟡 **Atraso ligeiro** (≤1 semana) | Falhou 1 meta de controlo | Aula de 5.ª só repertório (compassos críticos) · +10' diários em casa, só na obra · trilos/ornamentos reduzidos ao essencial · secções já seguras passam a «revisão 1×/dia» |
 | 🟠 **Atraso médio** (2 semanas) | Falhou 2 controlos seguidos | **Andamento de segurança:** Seixas ♩.=56, Loeillet ♩=88, Langlais ♩=72, Rheinberger ♩.=40, Pachelbel ♩.=44 · prioridade: tocar **sem paragens** · técnica mantém-se diária (pontos «seguros») · contacto com o EE |
-| 🔴 **Atraso sério** | A 3 semanas do teste, a obra não está lida | Falar com o GD: **Rheinberger** em 1 teclado ou com pedal simplificado; **Prelúdio** com o baixo pela ME (sem pedal) · no 2.º sem., considerar apresentar a Fuga no Teste II e o Prelúdio no **Encontro musical de maio** · 1 aula extra de apoio no órgão |
+| 🔴 **Atraso sério** | A 3 semanas do teste, a obra não está lida | Falar com o GD: **Rheinberger** em 1 teclado ou com pedal simplificado; **Prelúdio** com pedal só nos c. 1–13 e 23–28 (no resto, baixo pela ME) · no 2.º sem., considerar apresentar a Fuga no Teste II e o Prelúdio no **Encontro musical de maio** · 1 aula extra de apoio no órgão |
 
 ---
 
