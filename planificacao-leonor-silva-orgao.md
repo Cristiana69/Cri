@@ -7,7 +7,7 @@
 - **ritmo**: pulsação estável, contagem, subdivisão e figuras pontuadas;
 - **atenção/fadiga**: blocos curtos e muito variados.
 
-> Todos os compassos indicados foram contados nas partituras enviadas (Seixas, Loeillet, Langlais, Rheinberger, Pachelbel e Prelúdio BWV 558). **Do Minuete de Loeillet só recebi a pág. 16** (c. 1–22); a continuação (pág. 17) aparece como «c. 23–fim».
+> Todos os compassos indicados foram contados nas partituras enviadas (Seixas, Loeillet, Langlais, Rheinberger, Pachelbel e Prelúdio BWV 558). O Minuete de Loeillet foi **gravado de novo**, com compassos numerados, em `partituras/loeillet-minuete.pdf`.
 
 ---
 
@@ -49,15 +49,26 @@
 - **Estudo inteligente.** 62 compassos parecem muito, mas c. 27–33 repetem A1 e há três sequências (c. 14–19, 43–47, 48–54). Na prática, **leem-se ~35 compassos novos**.
 - **Clave de fá.** A ME tem **quase só uma nota por tempo**. É a obra ideal para treinar leitura: dizer o nome de cada nota da ME de c. 1–26 antes de a tocar.
 
-### 1.2 J.-B. Loeillet – Minuete (Sol M, 3/4, *Allegretto*)
+### 1.2 J.-B. Loeillet – Minuete (**mi menor**, 3/4, *Allegretto*) – 48 c.
+
+Partitura nova e legível: `partituras/loeillet-minuete.pdf`, com todos os compassos numerados.
 
 | Secção | Compassos | Conteúdo | Dificuldade |
 |---|---|---|---|
-| **A** (com repetição) | 1–11 | Frase 1: c. 1–5; frase 2: c. 6–11. Trilo em **c. 3** (sobre mínima pontuada). Semicolcheias em **c. 5** e **c. 10** | ME a **duas vozes** em c. 6–9 (baixo em mínima pontuada + voz interior pausa-mínima) com **substituição 5→4** escrita em c. 8–10 |
-| **B** | 12–22 (pág. 16) | c. 12–13 = início transposto; trilo em **c. 14**; semicolcheias em **c. 16** e **c. 22** | c. 17–20: mesma textura de 2 vozes na ME (= c. 6–9!) |
-| **B (cont.)** | 23–fim (pág. 17) | A marcar na partitura | — |
+| **A** (com repetição) | 1–11 | Frase 1: c. 1–5; frase 2: c. 6–11 (cadência em Si, dominante). Ornamento em **c. 3**. Semicolcheias em **c. 5** e **c. 10** | ME a **duas vozes** em c. 5–10 (baixo em mínima pontuada + voz de cima pausa-mínima), com **substituição 5→4** em c. 8–10 |
+| **B1** | 12–23 | c. 12–16 = c. 1–5 **uma 3.ª acima** (Sol M); c. 17–21: **sequência a subir** (Ré–Mi–Fá#–Sol–Lá); cadência em **Sol M** (c. 22–23) | Mesma textura de 2 vozes na ME (c. 17–21 = c. 6–10) |
+| **B2** | 24–34 | Troca de papéis: a **ME faz as colcheias** (c. 25–26, 28–29, 31–32) e a MD responde com semínimas em *staccato*. Três grupos iguais de 3 c., cada um um grau abaixo: c. 24–26 / 27–29 / 30–32. Cadência em Si (c. 33–34) | ⭐ **Clave de fá em movimento**: colcheias da ME com ligadura + *staccato* |
+| **B3** | 35–43 | **= c. 24–32** (repetição exata; *p* em c. 38) | Nada de novo para ler! |
+| **Coda** | 44–48 | Sequência a subir na MD (c. 44–46) sobre **baixo cromático** (Ré#–Mi–Fá#–Sol–Lá–Si) e voz interior Si–Dó#–Ré#–Mi; cadência final em mi menor (c. 47–48, *f*) | Acidentes Ré#, Dó# na ME |
 
-- **Padrão-chave.** A MD de c. 6–9 e c. 17–20 tem sempre o mesmo gesto: ligadura sobre 3 notas + 2 notas em *staccato* (dedil. 5-2-4 / 5-1-2). **Aprender uma vez, aplicar 8 vezes.**
+- **Estudo inteligente.**
+  - c. 35–43 repetem c. 24–32;
+  - c. 12–16 são o início transposto;
+  - as sequências (c. 6–10, 17–21, 24–32, 44–46) repetem o mesmo gesto.
+  - Dos 48 compassos, **só ~22 são leitura nova**.
+- **Padrão-chave da MD.** Ligadura sobre 4 colcheias + 2 notas em *staccato* (c. 6–9, 17–21, 44–46). **Aprender uma vez, aplicar 12 vezes.**
+- **Padrão-chave da ME.** Nos c. 25–43, 4 colcheias ligadas + 2 em *staccato*, em grupos de graus conjuntos (ex.: Mi-Fá#-Sol-Fá# | Sol-Mi). É um **excelente exercício diário de clave de fá**.
+- **Ornamento.** O sinal da edição é um *mordente/tremblement*, em c. 3, 14, 26, 29, 32, 37, 40 e 43. Os pequenos traços verticais no fim de alguns compassos são **respirações**.
 
 ### 1.3 Jean Langlais – *Petite Pièce III* (22 c., 4/4, *Allegro* ♩=88)
 
@@ -269,10 +280,10 @@ Andamentos em ♩ = colcheias para as escalas.
 | 4 | 21 / 22 out | **🎯 Controlo 1** | Ré M ♩=72 · si m MJ ♩=63 (harm.) + mel. MS · arpejos MJ ♩=56 · cad. si m 1.ª pos. | A ♩.=46 · B1 MJ ♩.=40 · **B2 c. 41–54** MS · trilos c. 39/42 só a 2-3-2 lento | 2.ª suplementar inferior (Mi, Ré, Dó grave) | **Pausas da ME c. 43–55**: «UM (dois) (três) quatro-cinco-seis» |
 | 5 | 28 / 29 out | Obra lida inteira | Ré M ♩=76 · si m ♩=69 · arpejos ♩=60 · cad. si m 3 pos. | **B3 c. 55–62** · obra inteira MJ ♩.=48 · trilos medidos (4 notas) | 1.ª vista: 4 c. de ME/dia | Metrónomo só no 1.º tempo de cada compasso (♩.) |
 | 6 | 4 / 5 nov | **🎯 Controlo 2 – simulação** | Ré M ♩=80 · si m ♩=76 · arpejos ♩=63 · cad. fluentes 3 pos. | Seixas inteiro ♩.=56–60 com repetições · articulação barroca | Revisão cronometrada (meta 20 notas/min) | Tocar para um colega/gravar 1× sem parar |
-| 7 | **qua 11 nov** / 12 nov | **TESTE I** · na 5.ª: balanço + arranque | 5.ª: Fá M MS ♩=60 | Seixas ♩.=60–66 · 5.ª: **Loeillet A c. 1–11**, só ritmo + ME | Loeillet ME c. 1–11 nomeada (Sol M: Fá#!) | 3/4: «**1** 2 3» a andar |
+| 7 | **qua 11 nov** / 12 nov | **TESTE I** · na 5.ª: balanço + arranque | 5.ª: Fá M MS ♩=60 | Seixas ♩.=60–66 · 5.ª: **Loeillet A c. 1–11**, só ritmo + ME | Loeillet ME c. 1–11 nomeada (mi menor: Fá#, Ré#!) | 3/4: «**1** 2 3» a andar |
 | 8 | 18 / 19 nov | Loeillet A; Langlais: ritmo | Fá M MJ ♩=60 · ré m harm. MS ♩=56 · acorde Fá M | Loeillet A MS ♩=60 · **c. 6–9 ME a 2 vozes** · Langlais: padrão ME **sem notas** | Terceiras na ME (Langlais c. 11–13) | Langlais ME: «(1) 2-e (3) 4-e» |
-| 9 | 25 / 26 nov | Loeillet A MJ; Langlais A MS | Fá M ♩=66 · ré m MJ ♩=60 · arpejos MS ♩=52 · cad. Fá M 1.ª pos. | Loeillet A MJ ♩=63 · **B c. 12–22** MS · Langlais **A c. 1–8** MS ♩=56 | Leitura por intervalos da ME do Langlais (saltos de 6.ª/8.ª) | Semicolcheias Loeillet c. 5, 10, 16, 22: «ti-ri-ti-ri» |
-| 10 | 2 / 3 dez | **Apresentação em aula** (2–18 dez) + Itinerários organísticos | Fá M ♩=72 · ré m ♩=66 · cad. Fá M 3 pos. | **Seixas «em concerto»** · Loeillet B MJ ♩=60 · c. 23–fim MS · Langlais A MJ ♩=56 | Flashcards (meta 25/min) | Trilos Loeillet c. 3/14 medidos |
+| 9 | 25 / 26 nov | Loeillet A MJ; Langlais A MS | Fá M ♩=66 · ré m MJ ♩=60 · arpejos MS ♩=52 · cad. Fá M 1.ª pos. | Loeillet A MJ ♩=63 · **B1 c. 12–23** MS · Langlais **A c. 1–8** MS ♩=56 | Leitura por intervalos da ME do Langlais (saltos de 6.ª/8.ª) | Semicolcheias Loeillet c. 5, 10, 16, 22: «ti-ri-ti-ri» |
+| 10 | 2 / 3 dez | **Apresentação em aula** (2–18 dez) + Itinerários organísticos | Fá M ♩=72 · ré m ♩=66 · cad. Fá M 3 pos. | **Seixas «em concerto»** · Loeillet B MJ ♩=60 · **B2 c. 24–34** MS (depois c. 35–43 = c. 24–32!) · **Coda c. 44–48** · Langlais A MJ ♩=56 | Flashcards (meta 25/min) | Trilos Loeillet c. 3/14 medidos |
 | 11 | 9 / 10 dez | **🎯 Controlo 3** | Fá M ♩=76 · ré m ♩=69 · arpejos MJ ♩=56 · cad. ré m | Loeillet inteiro MJ ♩=72 · Langlais **B1 c. 9–13** + **B2 c. 14–17** MS | ME Langlais c. 11–17 (terceiras/quintas) | Metrónomo no tempo 2 e 4 (Langlais) |
 | 12 | 16 / 17 dez | Tudo lido antes do Natal | Fá M ♩=80 · ré m ♩=72 · arpejos ♩=60 | Loeillet ♩=80 · Langlais A+B1 MJ ♩=60 · **B3 c. 18–22** MS | Revisão | Plano de férias (§9) |
 | — | 21 dez – 2 jan | **Férias** | 5 dias/sem × 20' | Loeillet 1×/dia; Langlais por secções | App 5'/dia | — |
@@ -388,11 +399,11 @@ Blocos **curtos (≤ 8')** e **alternados**: sentada / de pé / órgão / mesa.
 | Aspeto | Orientação |
 |---|---|
 | **Carácter** | Dança de corte em 3/4: **1.º tempo apoiado, 2.º e 3.º leves**. Imaginar um passo por compasso. *Allegretto* ♩=96–104, sem pressa |
-| **Fraseado** | Frases: c. 1–5 · 6–11 · 12–16 · 17–22 · … No órgão o «acento» faz-se com **duração**: a nota forte é mais longa, as fracas mais curtas. Respirar (levantar as mãos) nos fins de frase: c. 5, 11, 16 e 22 |
-| **Articulação** | Respeitar ligaduras + *staccato* da edição (c. 6–9 e 17–20). Semicolcheias (c. 5, 10, 16, 22) legato e **leves** |
-| **Ornamentos** | Trilos **c. 3 e c. 14**: nota superior, parar no 3.º tempo (ficar parada na nota principal) |
-| **ME** | c. 6–9 / 17–20: **duas vozes numa mão**. Estudar primeiro só o baixo (5.º dedo), depois só a voz de cima, depois juntas. Substituição **5→4** (c. 8–10) para ligar |
-| **Dinâmica** | *mf* (c. 1, 12) / *p* (c. 10) / *f* (c. 22) → **mudança de registação ou de teclado** (ex.: *p* = teclado II) |
+| **Fraseado** | Frases: c. 1–5 · 6–11 · 12–16 · 17–23 · 24–26 · 27–29 · 30–34 · 35–43 · 44–48. No órgão o «acento» faz-se com **duração**: a nota forte é mais longa, as fracas mais curtas. Respirar (levantar as mãos) nos traços de respiração da edição: fim de c. 3, 5, 14, 16, 26, 29, 32, 37, 40, 43 e a meio do c. 47 |
+| **Articulação** | Respeitar ligaduras + *staccato* da edição (c. 6–9, 17–21, 44–46 na MD; c. 25–43 na ME). Semicolcheias (c. 5, 10, 16, 22, 33, 47) legato e **leves** |
+| **Ornamentos** | Mordente/*tremblement* nas mínimas pontuadas de **c. 3, 14, 26, 29, 32, 37, 40 e 43**: começar na nota superior, curto, e ficar parada na nota principal até ao 3.º tempo |
+| **ME** | c. 5–11 / 16–23: **duas vozes numa mão**. Estudar primeiro só o baixo (5.º dedo), depois só a voz de cima, depois juntas. Substituição **5→4** (c. 8–10) para ligar |
+| **Dinâmica** | *mf* (c. 1, 12, 24) / *p* (c. 10, 38) / *f* (c. 22, 47) → **mudança de registação ou de teclado** (ex.: *p* = teclado II) |
 
 ### 7.3 Langlais – *Petite Pièce III*
 
